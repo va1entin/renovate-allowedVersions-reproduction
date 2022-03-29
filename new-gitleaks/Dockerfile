@@ -1,0 +1,1 @@
+FROM zricethezav/gitleaks:8.5.1
