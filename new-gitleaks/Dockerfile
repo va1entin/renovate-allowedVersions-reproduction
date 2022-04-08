@@ -1,1 +1,1 @@
-FROM zricethezav/gitleaks:8.5.2
+FROM zricethezav/gitleaks:v8.6.1
