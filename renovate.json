@@ -8,12 +8,9 @@
     "repositories": ["va1entin/renovate-allowedVersions-reproduction"],
     "packageRules": [
         {
+        "matchCurrentVersion": "7.6.1",
         "matchPackageNames": ["zricethezav/gitleaks"],
-        "allowedVersions": "!/7.6.1$/"
-        },
-        {
-        "matchPackageNames": ["sonar-scanner-cli"],
-        "allowedVersions": "!/1.1$/"
+        "enabled": "false"
         }
     ]
 }
