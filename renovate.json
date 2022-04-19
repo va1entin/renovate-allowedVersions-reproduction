@@ -5,7 +5,7 @@
     "onboardingConfig": {
       "extends": ["config:base"]
     },
-    "repositories": ["va1entin/renovate-allowedVersions-reproduction"],
+    "repositories": ["va1entin/renovate-demo"],
     "packageRules": [
         {
         "matchCurrentVersion": "7.6.1",
